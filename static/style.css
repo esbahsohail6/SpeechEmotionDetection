@@ -1,0 +1,16 @@
+body {
+    background: #f5f8fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+input[type="file"] {
+    padding: 10px;
+}
+
+.btn {
+    font-size: 1.2rem;
+}
